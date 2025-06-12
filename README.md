@@ -3,5 +3,5 @@ Agent storage backend where created prebuilt agent and team of agents for specif
 
 # RUN APP 
 ```bash 
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
